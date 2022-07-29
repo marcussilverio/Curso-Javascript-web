@@ -14,7 +14,7 @@ objeto = {
         //....
     }
 }
-objeto.processamento()
+objeto.processamento() 
 
 /*
     PRINCIPIOS IMPORTANTES
